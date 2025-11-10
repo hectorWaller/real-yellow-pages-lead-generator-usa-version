@@ -1,0 +1,19 @@
+{
+  "searches": [
+    {
+      "keyword": "Carpet Cleaning Services",
+      "location": "Phoenix, AZ",
+      "pages": 1
+    },
+    {
+      "keyword": "Plumbers",
+      "location": "Los Angeles, CA",
+      "pages": 2
+    },
+    {
+      "keyword": "Digital Marketing",
+      "location": "New York, NY",
+      "pages": 1
+    }
+  ]
+}
