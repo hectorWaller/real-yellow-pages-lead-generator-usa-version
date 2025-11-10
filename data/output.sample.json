@@ -1,0 +1,26 @@
+[
+  {
+    "business_name": "BrightClean Carpet Services",
+    "category": "Carpet Cleaning Services",
+    "address": "456 Elm St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip_code": "85004",
+    "phone_number": "(602) 555-1234",
+    "email": "contact@brightcleanaz.com",
+    "website": "https://www.brightcleanaz.com",
+    "rating": 4.8
+  },
+  {
+    "business_name": "Downtown Plumbing Pros",
+    "category": "Plumbers",
+    "address": "101 Main St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip_code": "90012",
+    "phone_number": "(213) 555-9876",
+    "email": null,
+    "website": "https://www.downtownplumbingpros.com",
+    "rating": 4.5
+  }
+]
